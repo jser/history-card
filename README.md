@@ -4,7 +4,7 @@ JSer.info history card.
 
 ## Usage
 
-Open <https://jser.info//history-card>
+Open <https://jser.info/history-card>
 
 ## Changelog
 
