@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "name": "history-card",
+  "version": "1.0.0",
+  "description": "JSer.info history card.",
+  "homepage": "https://github.com/jser/history-card",
+  "bugs": {
+    "url": "https://github.com/jser/history-card/issues"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jser/history-card.git"
+  },
+  "scripts": {
+    "build": "parcel build src/index.html --public-url .",
+    "start": "parcel src/index.html",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist/"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.2.0",
+    "parcel-bundler": "^1.9.7"
+  },
+  "dependencies": {
+    "@jser/data-fetcher": "^1.1.2",
+    "@jser/stat": "^1.1.2",
+    "reveal.js": "^3.7.0"
+  }
+}
