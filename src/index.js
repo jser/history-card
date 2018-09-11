@@ -37,7 +37,7 @@ function main() {
         width: 1280,
         height: 960,
         minScale: 0.2,
-        maxScale: 1.0,
+        maxScale: 1.5,
         history: false,
         slideNumber: false,
         controls: false,

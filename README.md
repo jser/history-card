@@ -10,12 +10,6 @@ Open <https://jser.info/history-card>
 
 See [Releases page](https://github.com/jser/history-card/releases).
 
-## Running tests
-
-Install devDependencies and Run `npm test`:
-
-    npm i -d && npm test
-
 ## Contributing
 
 Pull requests and stars are always welcome.
