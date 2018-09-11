@@ -87,5 +87,3 @@ crashlytics-build.properties
 /.cache/
 .cache/
 dist/
-src/index.html
-yarn.lock

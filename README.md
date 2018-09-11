@@ -2,15 +2,9 @@
 
 JSer.info history card.
 
-## Install
-
-Install with [npm](https://www.npmjs.com/):
-
-    npm install history-card
-
 ## Usage
 
-- [ ] Write usage instructions
+Open <https://jser.info//history-card>
 
 ## Changelog
 
